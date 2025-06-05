@@ -1,4 +1,4 @@
-# 📺 Seriouslyeh Bot - 免费查找夸克网盘短剧的 Telegram 机器人
+# 📺 Seriouslyeh Bot - 免费夸克网盘短剧的 Telegram 机器人
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/Seriouslyeh_bot)
 
@@ -38,5 +38,4 @@
 
 ---
 
-## 🔍 SEO关键词（便于搜索引擎收录）
 
